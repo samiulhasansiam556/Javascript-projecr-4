@@ -1,0 +1,42 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: blueviolet;
+}
+
+.div0{
+  width: 90%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  
+}
+
+.div1{
+  display: flex;
+  border: 1px solid rgb(255, 255, 255);
+  height: 350px;
+  width: 600px;
+  overflow: hidden;
+  /* gap: 15px; */
+  
+  background-color: azure; 
+
+
+}
+
+.div1 img{
+  width: 200px;
+  height: 350px;
+}
+button{
+  width: 60px;
+  height: 30px;
+ margin: 15px;
+}
